@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhaynishad
 - 👀 I’m interested in Frontend Development and Machine Learning
-- 🌱 I’m currently learning Frontend Development with React and MongoDB.
+- 🌱 I’m currently learning Frontend Development with Next.js and MongoDB.
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me: https://www.linkedin.com/in/abhaynishad549
